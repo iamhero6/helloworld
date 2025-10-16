@@ -1,2 +1,9 @@
 # NAME: Hohai
+#DOMAIN,
+#DOMAIN-KEYWORD,
+#DOMAIN-SUFFIX,
+#IP-ASN,
+#IP-CIDR,
+#TOTAL,
+
 DOMAIN-SUFFIX,hohai.eu.org
